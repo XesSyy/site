@@ -1,0 +1,149 @@
+body { 
+  background-color: black;
+  color: aliceblue;
+}
+ 
+#aboutme{
+
+  font-family: 'Courier New', Courier, monospace;
+  width: 500px;
+  height: 383px;
+  text-align: center;
+  margin: 0px auto 250px auto;
+
+}
+
+#ana{
+
+  margin-top: 275px;
+  
+}
+
+
+#ai{
+
+display: inline-block;
+width: auto;
+height: 220px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#ps{
+
+display: inline-block;
+width: 200px;
+height: auto;
+margin-bottom: 11px;
+margin-right: 67px;
+
+}  
+
+#resim{
+  padding-top: 200px;
+  padding-bottom: 300px;
+  height: 225px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("\WEB.png")
+  
+
+}
+
+#resimler{
+
+text-align: center;
+
+}
+
+
+#resimler2{
+
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+
+
+#develop{
+
+height: 200px;
+width: auto;
+text-align: center;
+
+}  
+
+
+
+
+.baslik { 
+  color: aliceblue;
+  text-align: center;
+  font-size: 4.375em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+h2 {
+  font-size: 3.125em;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#skills {
+
+  margin-top: 200px;
+  margin-bottom: 50;
+
+}
+
+
+
+.yazilar{
+
+text-align: center;
+line-height: 30px;
+height: 383px;
+font-size: 1.3em;
+font-family: 'Courier New', Courier, monospace;
+  
+}  
+
+
+.midlevel{
+
+  text-align: center;
+  line-height: 30px;
+  font-size: 1.3em;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 150px;
+    
+  }
+
+
+
+  
+
+  .hobbies{
+
+    width: 400px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+      
+    }  
